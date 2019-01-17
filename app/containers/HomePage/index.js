@@ -75,9 +75,9 @@ export class HomePage extends React.PureComponent {
               Lørdag 19.jan.
             </H3>
             <div>
-              12.30 Avreise med buss fra CF Larvik-Gardemoen
-              17.00 Avgang Gardemoen-Salzburg
-              20.00 Buss Salzburg-Saalbach / innsjekk Hotel Kristiana/enkel bevertning
+              <div>12.30 Avreise med buss fra CF Larvik-Gardemoen</div>
+              <div>17.00 Avgang Gardemoen-Salzburg</div>
+              <div>20.00 Buss Salzburg-Saalbach / innsjekk Hotel Kristiana/enkel bevertning</div>
             </div>
           </Section>
 
@@ -86,11 +86,11 @@ export class HomePage extends React.PureComponent {
               Søndag 20. jan.
             </H3>
             <div>
-              08.00 Frokost
-              10.00 Dagen til fri disp
-              16.00 Samling Hinterhag Alm
-              18.00 Samling. Foredrag fra Isola v/Tor Ivar
-              20.00 Middag på hotellet.
+              <div>08.00 Frokost</div>
+              <div>10.00 Dagen til fri disp</div>
+              <div>16.00 Samling Hinterhag Alm</div>
+              <div>18.00 Samling. Foredrag fra Isola v/Tor Ivar</div>
+              <div>20.00 Middag på hotellet.</div>
             </div>
           </Section>
 
@@ -99,11 +99,11 @@ export class HomePage extends React.PureComponent {
               Mandag 21.jan.
             </H3>
             <div>
-              08.00 Frokost
-              10.00 Dagen til fri disp
-              16.00 Samling Hinterhag Alm
-              18.00 Cf foredrag/info
-              20.00 Middag
+              <div>08.00 Frokost</div>
+              <div>10.00 Dagen til fri disp</div>
+              <div>16.00 Samling Hinterhag Alm</div>
+              <div>18.00 Cf foredrag/info</div>
+              <div>20.00 Middag</div>
             </div>
           </Section>
 
@@ -113,11 +113,11 @@ export class HomePage extends React.PureComponent {
 
             </H3>
             <div>
-              08.00 frokost
-              10.00 Byggeskikk i Østerrike v/Josef Rainer (lokalt)
-              11.00 Samling ved schattberg ski heis. Rundtur med Tore Østby/guid mot Leogang.
-              18.00 Tor Ivar Isola foredrag.
-              20.00 Middag
+              <div>08.00 frokost</div>
+              <div>10.00 Byggeskikk i Østerrike v/Josef Rainer (lokalt)</div>
+              <div>11.00 Samling ved schattberg ski heis. Rundtur med Tore Østby/guid mot Leogang.</div>
+              <div>18.00 Tor Ivar Isola foredrag.</div>
+              <div>20.00 Middag</div>
             </div>
           </Section>
 
@@ -126,9 +126,9 @@ export class HomePage extends React.PureComponent {
               Onsdag 23.jan.
             </H3>
             <div>
-              07.30 Frokost
-              08.30 Sjekk ut av hotellet/avreise til Salzburg
-              13.00 Avreise fra Salzburg
+              <div>07.30 Frokost</div>
+              <div>08.30 Sjekk ut av hotellet/avreise til Salzburg</div>
+              <div>13.00 Avreise fra Salzburg</div>
             </div>
           </Section>
 
